@@ -1,0 +1,3 @@
+存放 apk 文件：名称规定
+老包：old.apk
+新包：new.apk
